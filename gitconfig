@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bpruvostdata@gmail.com
+	name = Benjamin Pruvost
